@@ -29,3 +29,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuz505&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎧 Currently Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fq5fur4zsx435a2di4g3bu4npa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fq5fur4zsx435a2di4g3bu4npa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
