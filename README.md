@@ -30,10 +30,28 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anuz505&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎧 Currently Playing on Spotify
+
+
+## 🎧 Currently Playing
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td border="0" width="60%">
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fq5fur4zsx435a2di4g3bu4npa&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fq5fur4zsx435a2di4g3bu4npa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
   </a>
 </p>
+
+</td>
+
+<td border="0" width="40%">
+
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVqNzBsM2QzcnE3OHJka3d3MGYyaTd3NzA3YWo4a3I3NDRxZHQ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="230"/>
+</p>
+
+</td>
+</tr>
+</table>
