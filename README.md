@@ -27,11 +27,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 [![](https://visitcount.itsvg.in/api?id=anuz505&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+# 🎧 Now Playing While I Code:
 <p align="center">
   <img  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fq5fur4zsx435a2di4g3bu4npa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" width="350" height="500" style="border:none;" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHg0YWljOW5yMjd5MDZxamw1ZTlldDRobmNwOGN2cW93OHdjOTN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dST9a96C24I9KTi6ps/giphy.gif" />
