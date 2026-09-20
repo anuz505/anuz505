@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **anuj.bhandari.418@gmail.com**
 
-- Work github https://github.com/anuj-bhandari-dev
+- Work github https://github.com/anuz-krisp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
