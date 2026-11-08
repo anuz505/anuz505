@@ -13,7 +13,10 @@
 <a href="https://kaggle.com/https://www.kaggle.com/anuz505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anuz505" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anuz.505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anuz.505/" height="30" width="40" /></a>
 </p>
-
+<div align="center">
+  <h2>My Git Koi 🐟</h2>
+  <img src="koi/koi.gif" width="300" />
+</div>
 
 
 # 💻 Tech Stack:
