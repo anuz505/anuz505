@@ -20,7 +20,7 @@ jobs:
         uses: yalongwastaken/git-koi@v1
         with:
           login: anuz505
-          body: gold
+          body: white
           output-dir: koi
 
       - name: Commit generated files
