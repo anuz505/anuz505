@@ -13,10 +13,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/anuz505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anuz505" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anuz.505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anuz.505/" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <h2>My Git Koi 🐟</h2>
-  <img src="koi/koi.gif" width="300" />
-</div>
+
 
 
 # 💻 Tech Stack:
@@ -26,15 +23,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuz505&" alt="anuz505" /></p>
 
+<div align="center">
+  <h2>My Git Koi 🐟</h2>
+  <img src="koi/koi.gif" width="300" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=anuz505&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🎧 Now Playing While I Code:
-<p align="center">
-  <img  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fq5fur4zsx435a2di4g3bu4npa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" width="350" height="500" style="border:none;" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHg0YWljOW5yMjd5MDZxamw1ZTlldDRobmNwOGN2cW93OHdjOTN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dST9a96C24I9KTi6ps/giphy.gif" />
-</p>
+
 
 
